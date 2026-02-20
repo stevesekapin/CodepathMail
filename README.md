@@ -28,9 +28,7 @@ CodepathMail – Gmail-style email list app built using RecyclerView.
 
 \## GIF Walkthrough
 
-
-
-<img src="demo.gif" width="300">
+<img src='https://i.imgur.com/mowJ452.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
