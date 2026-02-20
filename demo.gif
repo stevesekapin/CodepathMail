@@ -1,0 +1,40 @@
+# CodepathMail
+
+## Overview
+
+CodepathMail is a simple Android application that displays a scrollable list of emails using RecyclerView.
+This project was built as part of the CodePath Android Development Lab to practice dynamic lists and UI layout.
+
+---
+
+## Features Completed
+
+Required Features:
+
+* User can scroll through a list of emails
+* Each email displays:
+
+  * Sender
+  * Email title
+  * Email summary
+* RecyclerView used to efficiently display items
+* Clicking an email shows a Toast message
+
+Optional / Improvements:
+
+* Improved layout spacing and formatting
+* Click listener added to RecyclerView items
+
+---
+
+## Demo
+
+![App Demo](demo.gif)
+
+---
+
+## Technologies Used
+
+* Kotlin
+* Android Studio
+* RecyclerView
